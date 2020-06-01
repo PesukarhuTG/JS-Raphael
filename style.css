@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+  }
+
+  .wrapper {
+    width: 100%;
+    max-width: 1300px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    background-color: #ebebeb;
+  }
+
+  #container-01, #container-02, #container-03, #container-04, #container-05 {
+    margin: 10px auto;
+  }
